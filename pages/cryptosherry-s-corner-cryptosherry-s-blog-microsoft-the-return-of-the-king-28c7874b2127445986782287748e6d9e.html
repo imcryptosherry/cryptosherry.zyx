@@ -10,7 +10,10 @@
     <header class="top">
       <div class="container top-inner">
         <a class="brand" href="../index.html">CryptoSherry</a>
-        <nav class="nav"><a href="../index.html">Home</a><a href="cryptosherry-s-corner-cryptosherry-s-blog-77b891042f264fea9326e33ad53f0b2b.html">Blog</a><a href="cryptosherry-s-corner-publications-and-reposting-7fb244838dfe4dc69ea4bb44bac2cf57.html">Publications</a><a href="cryptosherry-s-corner-sherry-s-cryptosphere-39e39671913048038a812f16e739c273.html">Video</a><a href="cryptosherry-s-corner-cryptosherry-s-live-podcast-series-fc580b55f6004fe1a40ae816e4d4a0ca.html">Podcast</a><a href="../resume.html">About CryptSherry</a></nav>
+        <div class="top-actions">
+          <nav class="nav"><a href="../index.html">Home</a><a href="cryptosherry-s-corner-cryptosherry-s-blog-77b891042f264fea9326e33ad53f0b2b.html">Blog</a><a href="cryptosherry-s-corner-publications-and-reposting-7fb244838dfe4dc69ea4bb44bac2cf57.html">Publications</a><a href="cryptosherry-s-corner-sherry-s-cryptosphere-39e39671913048038a812f16e739c273.html">Video</a><a href="cryptosherry-s-corner-cryptosherry-s-live-podcast-series-fc580b55f6004fe1a40ae816e4d4a0ca.html">Podcast</a><a href="../video-coding.html">Video Coding</a><a href="../daily.html">Daily Picks</a><a href="../resume.html">About CryptSherry</a></nav>
+          <button class="lang-toggle" type="button" aria-label="Toggle language" data-lang-toggle>EN / 中文</button>
+        </div>
       </div>
     </header>
     <main class="container">
@@ -39,5 +42,32 @@
 <p>Microsoft&#x27;s ChatGPT, a language model, is driving the company&#x27;s revenue and profits, marking a significant comeback for the tech giant. By investing in OpenAI, Microsoft has access to the necessary computing power and data to maintain its competitive edge in the industry. With its extensive developer community, Azure, and GitHub, Microsoft is well-positioned to benefit from ChatGPT&#x27;s integration with its cloud computing services. This strategic move gives Microsoft an edge over Google in terms of computing power and cost-sharing, making ChatGPT a formidable challenger to Google&#x27;s dominant position in the online information and advertising market. Thus, Microsoft&#x27;s resurgence is evident, and it is poised to reclaim its throne as the king of the tech world.</p>
       </article>
     </main>
+    <script>
+      (function () {
+        const key = "cryptosherry-lang";
+        const btn = document.querySelector("[data-lang-toggle]");
+        const applyLang = (lang) => {
+          document.documentElement.setAttribute("lang", lang === "zh" ? "zh-CN" : "en");
+          document.body.dataset.lang = lang;
+          document.querySelectorAll("[data-i18n-zh]").forEach((el) => {
+            const en = el.getAttribute("data-i18n-en");
+            const zh = el.getAttribute("data-i18n-zh");
+            el.textContent = lang === "zh" ? zh : en;
+          });
+          if (btn) {
+            btn.textContent = lang === "zh" ? "中文 / EN" : "EN / 中文";
+          }
+        };
+        let current = localStorage.getItem(key) || "en";
+        applyLang(current);
+        if (btn) {
+          btn.addEventListener("click", () => {
+            current = current === "en" ? "zh" : "en";
+            localStorage.setItem(key, current);
+            applyLang(current);
+          });
+        }
+      })();
+    </script>
   </body>
 </html>

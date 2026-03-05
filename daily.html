@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Daily Picks | CryptoSherry</title>
+    <link rel="stylesheet" href="assets/style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="container top-inner">
+        <a class="brand" href="index.html">CryptoSherry</a>
+        <div class="top-actions">
+          <nav class="nav"><a href="index.html">Home</a><a href="pages/cryptosherry-s-corner-cryptosherry-s-blog-77b891042f264fea9326e33ad53f0b2b.html">Blog</a><a href="pages/cryptosherry-s-corner-publications-and-reposting-7fb244838dfe4dc69ea4bb44bac2cf57.html">Publications</a><a href="pages/cryptosherry-s-corner-sherry-s-cryptosphere-39e39671913048038a812f16e739c273.html">Video</a><a href="pages/cryptosherry-s-corner-cryptosherry-s-live-podcast-series-fc580b55f6004fe1a40ae816e4d4a0ca.html">Podcast</a><a href="video-coding.html">Video Coding</a><a href="daily.html">Daily Picks</a><a href="resume.html">About CryptSherry</a></nav>
+          <button class="lang-toggle" type="button" aria-label="Toggle language" data-lang-toggle>EN / 中文</button>
+        </div>
+      </div>
+    </header>
+    <main class="container">
+      <article>
+        
+<h1>Daily Picks</h1>
+<p><span data-i18n-en="Operational window: past 24h, generated at 09:00 ET." data-i18n-zh="运行窗口：过去24小时，固定纽约时间 09:00 生成。">Operational window: past 24h, generated at 09:00 ET.</span></p>
+<section class="feed-layout">
+  <section class="feed-board">
+    <h2>Daily AI</h2>
+    <a class="feed-item" href="daily/2026-03-05/ai/archestra-ai-archestra/index.html">
+      <h3>archestra-ai/archestra</h3>
+      <p><span data-i18n-en="Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering." data-i18n-zh="从最新24小时窗口的GitHub趋势/候选主题中筛选，经过质量筛选后按星级排名。">Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering.</span></p>
+      <p class="mini-note">2026-03-05 • github</p>
+    </a>
+  </section>
+  <section class="feed-board">
+    <h2>Daily Market</h2>
+    <ul class="market-list">
+      <li>
+        <a class="market-link" href="daily/2026-03-05/market/for-those-always-waiting-to-time-the-bottom-versus-dca/index.html">
+          <strong><span data-i18n-en="For those always waiting to time the bottom versus DCA…" data-i18n-zh="对于那些总是等待与 DCA 比较的底部时间的人......">For those always waiting to time the bottom versus DCA…</span></strong>
+          <p><span data-i18n-en="For those always waiting to time the bottom versus DCA…" data-i18n-zh="对于那些总是等待与 DCA 比较的底部时间的人......">For those always waiting to time the bottom versus DCA…</span></p>
+        </a>
+      </li>
+    
+      <li>
+        <a class="market-link" href="daily/2026-03-05/market/daily-general-discussion-march-05-2026/index.html">
+          <strong><span data-i18n-en="Daily General Discussion March 05, 2026" data-i18n-zh="每日一般性讨论 2026 年 3 月 5 日">Daily General Discussion March 05, 2026</span></strong>
+          <p><span data-i18n-en="Daily General Discussion March 05, 2026" data-i18n-zh="每日一般性讨论 2026 年 3 月 5 日">Daily General Discussion March 05, 2026</span></p>
+        </a>
+      </li>
+    
+      <li>
+        <a class="market-link" href="daily/2026-03-05/market/smart-money-is-rotating-into-paxg-again/index.html">
+          <strong><span data-i18n-en="Smart money is rotating into PAXG again" data-i18n-zh="聪明的钱再次转向PAXG">Smart money is rotating into PAXG again</span></strong>
+          <p><span data-i18n-en="Smart money is rotating into PAXG again" data-i18n-zh="聪明的钱再次转向PAXG">Smart money is rotating into PAXG again</span></p>
+        </a>
+      </li>
+    </ul>
+  </section>
+</section>
+
+      </article>
+    </main>
+    <script>
+      (function () {
+        const key = "cryptosherry-lang";
+        const btn = document.querySelector("[data-lang-toggle]");
+        const applyLang = (lang) => {
+          document.documentElement.setAttribute("lang", lang === "zh" ? "zh-CN" : "en");
+          document.body.dataset.lang = lang;
+          document.querySelectorAll("[data-i18n-zh]").forEach((el) => {
+            const en = el.getAttribute("data-i18n-en");
+            const zh = el.getAttribute("data-i18n-zh");
+            el.textContent = lang === "zh" ? zh : en;
+          });
+          if (btn) {
+            btn.textContent = lang === "zh" ? "中文 / EN" : "EN / 中文";
+          }
+        };
+        let current = localStorage.getItem(key) || "en";
+        applyLang(current);
+        if (btn) {
+          btn.addEventListener("click", () => {
+            current = current === "en" ? "zh" : "en";
+            localStorage.setItem(key, current);
+            applyLang(current);
+          });
+        }
+      })();
+    </script>
+  </body>
+</html>
