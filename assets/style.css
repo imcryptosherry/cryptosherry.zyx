@@ -382,6 +382,8 @@ article h2, article h3, article h4 {
   padding: .62rem .7rem;
   color: #1f2b42;
   background: #fff;
+  min-width: 0;
+  overflow: hidden;
 }
 .market-card p { margin: .28rem 0; }
 .market-meta-line {
@@ -391,9 +393,11 @@ article h2, article h3, article h4 {
   gap: .35rem;
 }
 .market-source a {
-  overflow-wrap: anywhere;
-  word-break: break-word;
   display: inline;
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-all;
 }
 .disclaimer {
   margin: .65rem 0 0;
