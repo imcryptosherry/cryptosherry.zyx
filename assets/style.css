@@ -376,6 +376,23 @@ article h2, article h3, article h4 {
   color: #1f2b42;
 }
 .market-link:hover { border-color: #9fb2e4; background: #f8fbff; }
+.market-card {
+  border: 1px solid #d7def0;
+  border-radius: 10px;
+  padding: .62rem .7rem;
+  color: #1f2b42;
+  background: #fff;
+}
+.market-card p { margin: .28rem 0; }
+.market-meta-line {
+  margin-top: .35rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+}
+.market-source a {
+  word-break: break-all;
+}
 .disclaimer {
   margin: .65rem 0 0;
   padding: .55rem .7rem;
