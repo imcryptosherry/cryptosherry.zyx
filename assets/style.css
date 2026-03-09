@@ -76,6 +76,21 @@ body {
   cursor: pointer;
 }
 .lang-toggle:hover { border-color: #bcc8e5; }
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 1000;
+  background: #0f172a;
+  color: #fff;
+  text-decoration: none;
+  padding: .45rem .68rem;
+  border-radius: 8px;
+}
+.skip-link:focus-visible {
+  left: .8rem;
+  top: .6rem;
+}
 .nav a:focus-visible,
 .social-btn:focus-visible,
 .section-card:focus-visible,
@@ -94,10 +109,27 @@ article {
   padding: 1.2rem;
   box-shadow: 0 16px 44px rgba(27, 44, 89, .10);
 }
-h1, h2, h3, .brand { font-family: "Syne", "Manrope", sans-serif; letter-spacing: .01em; }
-h1 { font-size: 2.02rem; margin: .4rem 0 .8rem; }
-h2 { font-size: 1.45rem; margin: 1.1rem 0 .65rem; }
-h3 { font-size: 1.15rem; margin: 1rem 0 .5rem; }
+h1, h2, h3 { font-family: "Manrope", "PingFang SC", "Helvetica Neue", sans-serif; letter-spacing: .005em; }
+.brand { font-family: "Syne", "Manrope", sans-serif; letter-spacing: .01em; }
+h1 {
+  font-size: 2.02rem;
+  line-height: 1.28;
+  margin: .4rem 0 .8rem;
+  padding-top: .06em;
+  padding-bottom: .14em;
+  text-wrap: balance;
+  overflow: visible;
+}
+h2 {
+  font-size: 1.45rem;
+  line-height: 1.3;
+  margin: 1.1rem 0 .65rem;
+  padding-top: .03em;
+  padding-bottom: .06em;
+  overflow: visible;
+}
+h3 { font-size: 1.15rem; line-height: 1.32; margin: 1rem 0 .5rem; padding-bottom: .03em; overflow: visible; }
+h1, h2, h3, h4, h5, h6 { scroll-margin-top: 88px; }
 p, li { line-height: 1.7; color: #2d3240; }
 a { color: var(--blue); }
 ul, ol { padding-left: 1.2rem; }
