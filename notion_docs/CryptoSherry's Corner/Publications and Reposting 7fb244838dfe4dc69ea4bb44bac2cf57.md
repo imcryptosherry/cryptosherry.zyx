@@ -1,0 +1,153 @@
+# Publications and Reposting
+
+### **Oasis Origin Wins 1st Prize in BNB CHAIN & CyberConnect 2023 Web3 Social Hackathon, Empowering New Era of SocialFi**
+
+*Published on 15th March, 2023*
+
+[Oasis Origin Won 1st Prize in BNB CHAIN & CyberConnect 2023 Hackathon, Empowering New Era of SocialFi | by Cointime Staff | Cointime](https://www.cointime.com/news/oasis-origin-won-1st-prize-in-bnb-chain-cyberconnect-2023-hackathon-empowering-new-era-of-socialfi-10764)
+
+[Oasis Origin 荣获 BNB CHAIN & CyberConnect 2023 Hackathon 冠军，赋能 SocialFi 新世代](https://foresightnews.pro/article/h5Detail/28207)
+
+[Oasis Origin giành vị trí thứ nhất trong BNB CHAIN & CyberConnect 2023 Hackathon | by An Nguyen | Cointime](https://vn.cointime.com/news/ebb8a99b615847f43de0ead4fab57a05-11106)
+
+[Oasis launches Oasis Origin on BSC, a new on-chain version on BSC.](https://finance.yahoo.com/news/oasis-launches-oasis-origin-bsc-160000364.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFLTDLfs4lraCCyuwnTkGoLI-gj1mzgTK9M0eOn-LDkuHxdX_WCW_tSt-Z1gtB_SlfU3_o2lELUTbC1zLji4StOG9qW2XUqTgLm_zk_NiRYGRA_-yM2cHYDk6iC11fvDf-kQX1jgy9gqybjW2G89AA4TpnLwqYAUKzj_oCgTOuBM)
+
+[META ERA - 全球领先的 NFT 信息服务平台](https://metaera.media/detail/project/Bp28efP7)
+
+### **All In Here — Quick Notes of GPT-4’s New Features**
+
+*Published on 16th March, 2023*
+
+[All In Here — Quick Notes of GPT-4’s New Features | by CryptoSherry | Cointime](https://www.cointime.com/news/all-in-here-quick-notes-of-gpt4s-new-features-34515)
+
+[Tất cả ở đây — Ghi chú nhanh về các tính năng mới của GPT-4 | by CryptoSherry | Cointime](https://vn.cointime.com/news/27d4c111f7af9eac0cee25b83d964f2f-99688)
+
+### **Oasis Origin integrates GPT-4 and launches 'AI Avatar' for Metaverse Coexistence**
+
+*Published on 16th March, 2023*
+
+[Oasis Origin integrates GPT-4 and launches 'AI Avatar' for Metaverse Coexistence | by CryptoSherry | Cointime](https://www.cointime.com/news/oasis-origin-integrates-gpt4-and-launches-ai-avatar-for-metaverse-coexistence-86076)
+
+[Oasis Origin 接入 GPT4 并推出“AI 灵体”，构建与 AI 共存的元宇宙](https://foresightnews.pro/article/detail/28272)
+
+### Crypto’s Path Out of the Financial Market Uncertainty
+
+*(Published on 17th March, 2023**）***
+
+[Crypto’s Path Out of the Financial Market Uncertainty | by CryptoSherry | Cointime](https://www.cointime.com/news/cryptos-path-out-of-the-financial-market-uncertainty-80729)
+
+### Microsoft: The Return of the King
+
+*(Published on 22th March, 2023**）***
+
+[Microsoft: The Return of the King | by CryptoSherry | Cointime](https://www.cointime.com/news/microsoft-the-return-of-the-king-62358)
+
+[Microsoft: The Return of the King](https://mirror.xyz/0x3Af5b1C9C1f2BbFCAb89326019839A5f471C6081/c-X5WGM0Zr5Lk1CXzlLV3P2sYPVrg1VqjaEK6JArp30)
+
+### Oasis AI **x CyberConnect | Building for Metaverse Coexistence**
+
+*(Published on 5th April, 2023**）***
+
+[Oasis AI x CyberConnect | Building for Metaverse Coexistence](https://link3.to/oasisorigin/post/dd248684147714a03721bb1452d06d7d7860eed23d4276acc61697f0df40c95c)
+
+### **A Web3 Metaverse Native Experience in Cyber Square**
+
+*(Published on 22nd April, 2023)*
+
+[A Web3 Metaverse Native Experience in Cyber Square](https://link3.to/oasisorigin/post/03ce8a0f62aaa64743953259a939aba4e08fb8fff7130e50eef11a85be7a1539)
+
+### Ordinals Protocol and BRC20: A New Era for Bitcoin?
+
+*(Published on 2nd May, 2023)*
+
+[Ordinals Protocol and BRC20: A New Era for Bitcoin? | by CryptoSherry | Cointime](https://www.cointime.com/news/ordinals-protocol-and-brc20-a-new-era-for-bitcoin-41089)
+
+[Ordinals Protocol and BRC20: A New Era for Bitcoin?](https://medium.com/@imsherrywu1111/ordinals-protocol-and-brc20-a-new-era-for-bitcoin-add898134cea)
+
+### Evaluation of AI Generated Video Tools ：A Novice Perspective
+
+*(Published on 15th May, 2023)*
+
+[Evaluation of AI Generated Video Tools ：A Novice Perspective | by CryptoSherry | Cointime](https://www.cointime.com/news/evaluation-of-ai-generated-video-tools-94654)
+
+[Evaluation of AI Generated Video Tools ：A Novice Perspective](https://medium.com/aimonks/evaluation-of-ai-generated-video-tools-a-novice-perspective-f6bb30212608)
+
+### **Meet Your Digital Soul Mate: Oasis Crush - AI Virtual Persona NFT**
+
+*（Publish on 8th June, 2023)*
+
+[Meet Your Digital Soul Mate: Oasis Crush - AI Virtual Persona NFT](https://followin.io/feed/5088935)
+
+[Meet Your Digital Soul Mate: Oasis Crush - AI Virtual Persona NFT | by CryptoSherry | Cointime](https://www.cointime.com/news/meet-your-digital-soul-mate-78618)
+
+[Meet Your Digital Soul Mate: Oasis Crush — AI Virtual Persona NFT](https://medium.com/p/99df9f60c045)
+
+[Meet Your Digital Soul Mate](https://vocal.media/gamers/meet-your-digital-soul-mate)
+
+### Oasis Crush: A Serendipitous Journey with an AI Soul Mate
+
+*（Publish on 14th June, 2023)*
+
+[Oasis Crush: A Serendipitous Journey with an AI Soul Mate](https://followin.io/feed/5128744)
+
+[Oasis Crush: A Serendipitous Journey with an AI Soul Mate](https://medium.com/coinmonks/oasis-crush-a-serendipitous-journey-with-an-ai-soul-mate-b2858f7a621c)
+
+[Oasis Crush: A Serendipitous Journey with an AI Soul Mate | by CryptoSherry | Cointime](https://www.cointime.com/news/oasis-crush-10648)
+
+### **Rising from the Ashes: How Curve Finance's Unbreakable Spirit Triumphed Over a $73 Million Hack**
+
+*（Publish on 8th August, 2023)*
+
+[Rising from the Ashes: How Curve Finance’s Unbreakable Spirit Triumphed Over a $73 Million Hack](https://medium.com/coinmonks/rising-from-the-ashes-how-curve-finances-unbreakable-spirit-triumphed-over-a-70-million-hack-d65e7bb5f00e)
+
+[Rising from the Ashes: How Curve Finance's Unbreakable Spirit Triumphed Over a $73 Million Hack | by CryptoSherry | Cointime](https://cn.cointime.com/news/rising-from-the-ashes-how-curve-finance-s-unbreakable-spirit-triumphed-over-a-73-million-hack-48467)
+
+### **BRC-20 101**
+
+[BRC-20 101](https://medium.com/coinmonks/brc-20-101-ca09a0e77b52)
+
+[BRC-20 101 | by CryptoSherry | Cointime](https://www.cointime.com/news/brc-42766)
+
+**Runes: The New Magic of the Ordinals World?**
+
+[Runes: The New Magic of the Ordinals World? | by CryptoSherry | Cointime](https://www.cointime.ai/news/post_preview?token=eyJpdiI6IkdQRjVlNVByOW5hcTZUNVdyek45MWc9PSIsInZhbHVlIjoiTWltdWJWeldVai9iUEtoSU9ieDFzSytLbnV1MmtCaDg2blFLV1dFcElXeWlyVTgrQWpNS1hYbmJlekdrMVQydTY0Nm5yYisrSDNPdmk3YkU2QllXMS92YkpFeEcvSktWS0wxV2N1Y3RhSWt2aGdncGR5S1Q5ZWFKMUtYVTVFZHUiLCJtYWMiOiJjNjJmMjljMDFiZmViODRiOWM3ZjEwMjliNTJhZTRlOTA3ZmM2ZDU0MGQ1ZmI4ODExZTIzMDk2MjFiMTU3MzZkIiwidGFnIjoiIn0=)
+
+[Runes: The New Magic of the Ordinals World?](https://medium.com/coinmonks/runes-the-new-magic-of-the-ordinals-world-abcad87a2c06)
+
+### **RWAs: Making DeFi Burn Again**
+
+[RWAs: Making DeFi Burn Again | by CryptoSherry | Cointime](https://www.cointime.ai/news/post_preview?token=eyJpdiI6IktzZ2dTN1BmZkw1TkswNkljbDd2MXc9PSIsInZhbHVlIjoiV1o1b2o1K1FHZEJjOENkQWMwckZBTnhCMWppbHdHWGFEelFBbmtsbWd6MGUrb2RSSlpRNTFTZ0FJcVFhS1FiY2wyeERxVlVjUHVJQ3RCUXQyZUw5eTdCcHJFTmoxWDJMOFZLcnFiaHVvRzlRNEZpTTBkUzhoYmwvUFBjdC9zVVgiLCJtYWMiOiJhNTRjNWEzYTI0YmZkNGNiNzAzMWYwZGM5NTM1OTkxZmNmZmY2Y2MzY2Q4NGZkZjY2NWFhNWRkMDUwMTE4ODcxIiwidGFnIjoiIn0=)
+
+[RWAs: Making DeFi Burn Again](https://medium.com/coinmonks/rwas-making-defi-burn-again-c2c6d57bc527)
+
+### **Simple Steps for Newbies’ Guide to zkSync Airdrops**
+
+[Simple Steps for Newbies’ Guide to zkSync Airdrops](https://medium.com/coinmonks/simple-steps-for-newbies-guide-to-zksync-airdrops-751f63624229)
+
+[Simple Steps for Newbies' Guide to zkSync Airdrops | by CryptoSherry | Cointime](https://www.cointime.ai/news/post_preview?token=eyJpdiI6InlmMnhXbDZRSFBIUDBnN3NzWS9SY1E9PSIsInZhbHVlIjoiRzFaeldGN2Q0MVJoZXNSdWdIVHhMTXNjOGN4VnpyemlUbnJYeWFKRkVzUG5qMnVJK253bGh1TjlVUUlWUHd6L0E5SndKeWQySTVQZHhUdGR4TXh4NFFweWxqcG1uUFFHL1psUzBXZXZKZ2o5Y3VPcXdncFl1UVQ3MmwrZUsxTnUiLCJtYWMiOiI0NzJlMGIyZTYyNzhkOTlkNjg1ZGE4Yzk2ODZkZGYzOGVkOGRmMjBmMWE3MmE1YTE3NWE5ZGIyMTU4NjExN2Q2IiwidGFnIjoiIn0=)
+
+### **The Linea DeFi Voyage is Coming！**
+
+[The Linea DeFi Voyage is Coming！ | by CryptoSherry | Cointime](https://www.cointime.ai/news/the-linea-defi-voyage-is-49601)
+
+[The Linea DeFi Voyage is Coming！](https://medium.com/p/fbaaa12ab0f2)
+
+### **Aboard, The Hub**
+
+[Aboard, The Hub](https://medium.com/web-3-digitals/aboard-the-hub-393a13acf794)
+
+[Aboard, The Hub](https://medium.com/coinmonks/aboard-the-hub-ea5d49ad8f3d)
+
+[Aboard V3: Your Ultimate Trading Hub with Triple Incentives | by CryptoSherry | Cointime](https://www.cointime.ai/news/aboard-v3-50594)
+
+### **DePIN+AI: Crypto's Answer to Centralized Monopolies**
+
+[DePIN+AI: Crypto's Answer to Centralized Monopolies](https://app.binance.com/uni-qr/cart/9273163198137?l=en&r=61956501&uc=web_square_share_link&uco=lIS9BCsPDvNdCRLLgdfFDw&us=copylink)
+
+### **How AIOZ DePIN Nodes Power SmolLM**
+
+[How AIOZ DePIN Nodes Power SmolLM](https://www.binance.com/en/square/post/12009364854058)
+
+### **Why AI should be Integrated with DePIN Solutions**
+
+[Why AI should be Integrated with DePIN Solutions](https://app.binance.com/uni-qr/cart/12493052225033?l=en&r=61956501&uc=web_square_share_link&uco=lIS9BCsPDvNdCRLLgdfFDw&us=copylink)

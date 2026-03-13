@@ -1,0 +1,28 @@
+[start] 2026-03-06T15:00:53Z
+[step] generate daily data
+Wrote:
+- /home/sherry/codex/HelloWorld/data/daily_ai.json
+- /home/sherry/codex/HelloWorld/data/daily_market.json
+- /home/sherry/codex/HelloWorld/data/daily_ai_history.json
+{
+  "ai": {
+    "source": "github_live",
+    "candidate_count": 6,
+    "trending_count": 11,
+    "topic_count": 180
+  },
+  "market": {
+    "x_candidates": 0,
+    "reddit_candidates": 111,
+    "output_count": 3,
+    "x_enabled": false,
+    "x_diagnostic": "X_BEARER_TOKEN not set, fallback to Reddit fill strategy."
+  },
+  "override_applied": false,
+  "generated_at_utc": "2026-03-06T15:01:21Z"
+}
+[step] build site
+Generated 28 markdown pages -> HTML in /home/sherry/codex/HelloWorld/site
+Root markdown: CryptoSherry's Corner ea566d0c34394a8d86266ca2888b1f1c.md
+Home nav items: 4
+[done] 2026-03-06T15:01:21Z

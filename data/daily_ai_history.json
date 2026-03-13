@@ -1,0 +1,189 @@
+[
+  {
+    "id": "ai-2026-03-13-computesdk-computesdk",
+    "date": "2026-03-13",
+    "generated_at_utc": "2026-03-13T14:00:43Z",
+    "source_platform": "github",
+    "source_url": "https://github.com/computesdk/computesdk",
+    "title": "computesdk/computesdk",
+    "description": "A free and open-source toolkit for running other people's code in your applications.",
+    "description_zh": "一个免费的开源工具包，用于在您的应用程序中运行其他人的代码。",
+    "summary": "Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering.",
+    "summary_zh": "从最新24小时窗口的GitHub趋势/候选主题中筛选，经过质量筛选后按星级排名。",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-runtime"
+    ],
+    "category": "Tooling",
+    "updated_at": "2026-03-12T21:15:46Z",
+    "score_raw": 129,
+    "fallback_used": false
+  },
+  {
+    "id": "ai-2026-03-12-anthropics-claude-plugins-official",
+    "date": "2026-03-12",
+    "generated_at_utc": "2026-03-12T14:00:57Z",
+    "source_platform": "github",
+    "source_url": "https://github.com/anthropics/claude-plugins-official",
+    "title": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "description_zh": "由 Anthropic 管理的官方高品质 Claude 代码插件目录。",
+    "summary": "Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering.",
+    "summary_zh": "从最新24小时窗口的GitHub趋势/候选主题中筛选，经过质量筛选后按星级排名。",
+    "tags": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ],
+    "category": "Tooling",
+    "updated_at": "2026-03-11T23:37:54Z",
+    "score_raw": 9981,
+    "fallback_used": false
+  },
+  {
+    "id": "ai-2026-03-11-clacky-ai-open-clacky",
+    "date": "2026-03-11",
+    "generated_at_utc": "2026-03-11T14:00:49Z",
+    "source_platform": "github",
+    "source_url": "https://github.com/clacky-ai/open-clacky",
+    "title": "clacky-ai/open-clacky",
+    "description": "Build your own brand openclaw, and monetize your skills.",
+    "description_zh": "打造您自己的品牌 openclaw，并通过您的技能获利。",
+    "summary": "Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering.",
+    "summary_zh": "从最新24小时窗口的GitHub趋势/候选主题中筛选，经过质量筛选后按星级排名。",
+    "tags": [
+      "agent",
+      "openclaw",
+      "skills"
+    ],
+    "category": "Model / Demo",
+    "updated_at": "2026-03-11T08:05:33Z",
+    "score_raw": 180,
+    "fallback_used": false
+  },
+  {
+    "id": "ai-2026-03-10-rexleimo-rex-cli",
+    "date": "2026-03-10",
+    "generated_at_utc": "2026-03-10T14:00:56Z",
+    "source_platform": "github",
+    "source_url": "https://github.com/rexleimo/rex-cli",
+    "title": "rexleimo/rex-cli",
+    "description": "Local-first AI agent bootstrap: Playwright Browser MCP + ContextDB for Codex CLI, Claude Code, Gemini CLI, and OpenCode.",
+    "description_zh": "本地优先 AI 代理引导程序：适用于 Codex CLI、Claude Code、Gemini CLI 和 OpenCode 的 Playwright Browser MCP + ContextDB。",
+    "summary": "Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering.",
+    "summary_zh": "从最新24小时窗口的GitHub趋势/候选主题中筛选，经过质量筛选后按星级排名。",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "browser-automation"
+    ],
+    "category": "Agent Framework",
+    "updated_at": "2026-03-10T13:59:24Z",
+    "score_raw": 11,
+    "fallback_used": false
+  },
+  {
+    "id": "ai-2026-03-09-cogine-ai-awesome-openclaw-zh",
+    "date": "2026-03-09",
+    "generated_at_utc": "2026-03-09T14:01:01Z",
+    "source_platform": "github",
+    "source_url": "https://github.com/cogine-ai/awesome-openclaw-zh",
+    "title": "cogine-ai/awesome-openclaw-zh",
+    "description": "OpenClaw 中文实战库：176 个可复制使用场景，从部署到5分钟上手到完全精通。案例覆盖自动化、内容创作、运营增长与安全使用。",
+    "description_zh": "OpenClaw 中文实战库：176 个可复制使用场景，从部署到5分钟上手到完全精通。案例覆盖自动化、内容创作、运营增长与安全使用。",
+    "summary": "Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering.",
+    "summary_zh": "从最新24小时窗口的GitHub趋势/候选主题中筛选，经过质量筛选后按星级排名。",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "awesome-list"
+    ],
+    "category": "Model / Demo",
+    "updated_at": "2026-03-09T13:53:22Z",
+    "score_raw": 123,
+    "fallback_used": false
+  },
+  {
+    "id": "ai-2026-03-08-ed1s0nz-cyberstrikeai",
+    "date": "2026-03-08",
+    "generated_at_utc": "2026-03-08T14:00:24Z",
+    "source_platform": "github",
+    "source_url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+    "title": "Ed1s0nZ/CyberStrikeAI",
+    "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+    "description_zh": "Cyber​​StrikeAI 是一个用 Go 构建的 AI 原生安全测试平台。它集成了100多个安全工具、智能编排引擎、预定义安全角色的基于角色的测试、具有专业测试技能的技能体系以及全面的生命周期管理能力。",
+    "summary": "Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering.",
+    "summary_zh": "从最新24小时窗口的GitHub趋势/候选主题中筛选，经过质量筛选后按星级排名。",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-cybersecurity"
+    ],
+    "category": "Tooling",
+    "updated_at": "2026-03-07T20:07:06Z",
+    "score_raw": 2084,
+    "fallback_used": false
+  },
+  {
+    "id": "ai-2026-03-07-666ghj-mirofish",
+    "date": "2026-03-07",
+    "generated_at_utc": "2026-03-07T15:22:22Z",
+    "source_platform": "github",
+    "source_url": "https://github.com/666ghj/MiroFish",
+    "title": "666ghj/MiroFish",
+    "description": "Trending repository: 666ghj/MiroFish",
+    "description_zh": "趋势存储库：666ghj/MiroFish",
+    "summary": "Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering.",
+    "summary_zh": "从最新24小时窗口的GitHub趋势/候选主题中筛选，经过质量筛选后按星级排名。",
+    "tags": [
+      "ai",
+      "github"
+    ],
+    "category": "Model / Demo",
+    "updated_at": "2026-03-07T15:22:04.094550Z",
+    "score_raw": 0,
+    "fallback_used": false
+  },
+  {
+    "id": "ai-2026-03-06-openai-skills",
+    "date": "2026-03-06",
+    "generated_at_utc": "2026-03-06T15:01:17Z",
+    "source_platform": "github",
+    "source_url": "https://github.com/openai/skills",
+    "title": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "description_zh": "法典技能目录",
+    "summary": "Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering.",
+    "summary_zh": "从最新24小时窗口的GitHub趋势/候选主题中筛选，经过质量筛选后按星级排名。",
+    "tags": [
+      "ai",
+      "github"
+    ],
+    "category": "Model / Demo",
+    "updated_at": "2026-03-06T00:02:53Z",
+    "score_raw": 11574,
+    "fallback_used": false
+  },
+  {
+    "id": "ai-2026-03-05-archestra-ai-archestra",
+    "date": "2026-03-05",
+    "generated_at_utc": "2026-03-05T21:56:09Z",
+    "source_platform": "github",
+    "source_url": "https://github.com/archestra-ai/archestra",
+    "title": "archestra-ai/archestra",
+    "description": "Secure cloud-native MCP registry, gateway & orchestrator",
+    "description_zh": "安全的云原生 MCP 注册表、网关和协调器",
+    "summary": "Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering.",
+    "summary_zh": "从最新24小时窗口的GitHub趋势/候选主题中筛选，经过质量筛选后按星级排名。",
+    "tags": [
+      "a2a",
+      "a2a-mcp",
+      "acp"
+    ],
+    "category": "Tooling",
+    "updated_at": "2026-03-05T13:10:09Z",
+    "score_raw": 3549,
+    "fallback_used": false
+  }
+]

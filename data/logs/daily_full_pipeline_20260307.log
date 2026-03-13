@@ -1,0 +1,113 @@
+[start] 2026-03-07T15:00:00Z
+[step] generate daily ai+market data
+Wrote:
+- /home/sherry/codex/HelloWorld/data/daily_ai.json
+- /home/sherry/codex/HelloWorld/data/daily_ai_history.json
+- /home/sherry/codex/HelloWorld/data/daily_market.json
+- /home/sherry/codex/HelloWorld/data/daily_market_history.json
+{
+  "ai": {
+    "source": "fallback_history",
+    "candidate_count": 0
+  },
+  "market": {
+    "x_candidates": 0,
+    "reddit_candidates": 0,
+    "output_count": 3,
+    "fill_from_recent_3d_5d": 3,
+    "x_enabled": false,
+    "x_diagnostic": "X_BEARER_TOKEN not set, fallback to Reddit fill strategy."
+  },
+  "override_applied": false,
+  "generated_at_utc": "2026-03-07T15:00:14Z"
+}
+[step] build site
+Generated 28 markdown pages -> HTML in /home/sherry/codex/HelloWorld/site
+Root markdown: CryptoSherry's Corner ea566d0c34394a8d86266ca2888b1f1c.md
+Home nav items: 4
+[step] publish github pages
+From https://github.com/imcryptosherry/cryptosherry.zyx
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+sending incremental file list
+./
+daily.html
+index.html
+resume.html
+video-coding.html
+deleting daily/2026-03-06/ai/openai-skills/index.html
+deleting daily/2026-03-06/ai/openai-skills/
+deleting daily/2026-03-06/ai/
+deleting daily/2026-03-06/
+assets/
+assets/style.css
+content/
+content/CryptoSherry's Corner/
+content/CryptoSherry's Corner/CryptoSherry's Blog/
+content/CryptoSherry's Corner/CryptoSherry's Blog/A Web3 Metaverse Native Experience in Cyber Square/
+content/CryptoSherry's Corner/CryptoSherry's Blog/All In Here — Quick Notes of GPT-4’s New Features/
+content/CryptoSherry's Corner/CryptoSherry's Blog/BRC-20 101/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Crypto’s Path Out of the Financial Market Uncertai/
+content/CryptoSherry's Corner/CryptoSherry's Blog/DePIN+AI Crypto's Answer to Centralized Monopolies/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Evaluation of AI Generated Video Tools ：A Novice P/
+content/CryptoSherry's Corner/CryptoSherry's Blog/HK vs Singapore A Tale of Two Cities in the Web3 0/
+content/CryptoSherry's Corner/CryptoSherry's Blog/How AIOZ DePIN Nodes Power SmolLM/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Meet Your Digital Soul Mate Oasis Crush - AI Virtu/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Microsoft The Return of the King/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Oasis AI x CyberConnect Building for Metaverse Coe/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Oasis Crush A Serendipitous Journey with an AI Sou/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Oasis Origin Won 1st Prize in BNB CHAIN & CyberCon/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Oasis Origin integrates GPT-4 and launches 'AI Ava/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Ordinals Protocol and BRC20 A New Era for Bitcoin/
+content/CryptoSherry's Corner/CryptoSherry's Blog/RWAs Making DeFi Burn Again/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Rising from the Ashes How Curve Finance's Unbreaka/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Runes The New Magic of the Ordinals World/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Simple Steps for Newbies' Guide to zkSync Airdrops/
+content/CryptoSherry's Corner/CryptoSherry's Blog/The Future of Generative AI How W3AI Fits In/
+content/CryptoSherry's Corner/CryptoSherry's Blog/The Linea DeFi Voyage is Coming！/
+content/CryptoSherry's Corner/CryptoSherry's Blog/What’s the Impact of SVB Crisis on Crypto/
+content/CryptoSherry's Corner/CryptoSherry's Blog/Why AI should be Integrated with DePIN Solutions/
+daily/
+daily/2026-03-07/
+daily/2026-03-07/ai/
+daily/2026-03-07/ai/openai-skills/
+daily/2026-03-07/ai/openai-skills/index.html
+pages/
+pages/cryptosherry-s-corner-cryptosherry-s-blog-77b891042f264fea9326e33ad53f0b2b.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-a-web3-metaverse-native-experience-in-cyber-square-9e04a088421547ff86a708a501a9bcde.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-all-in-here-quick-notes-of-gpt-4-s-new-features-8eeb8b55e4494d348d5fe9d11d0dcae1.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-brc-20-101-b5470808c9524c6f9d22acaa13ab3f9e.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-crypto-s-path-out-of-the-financial-market-uncertai-b2b95b0189124533b4ffc937a9451372.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-depin-ai-crypto-s-answer-to-centralized-monopolies-58eca012afdd4f7b88b14ac4cfe0395e.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-evaluation-of-ai-generated-video-tools-a-novice-p-ea5b529a9ff24abcbfcdea97e7d370ff.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-hk-vs-singapore-a-tale-of-two-cities-in-the-web3-0-c33c0dd883d1408993289183a4442846.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-how-aioz-depin-nodes-power-smollm-07539962b0ad4f6cb5b21d48309fe426.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-meet-your-digital-soul-mate-oasis-crush-ai-virtu-d77d2f67e0694cfeade368f4b0e90a6d.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-microsoft-the-return-of-the-king-28c7874b2127445986782287748e6d9e.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-oasis-ai-x-cyberconnect-building-for-metaverse-coe-491c3dc721ba43d9b9361d3e598da9e8.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-oasis-crush-a-serendipitous-journey-with-an-ai-sou-a6ced098aec04beb8032916c63bfdb35.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-oasis-origin-integrates-gpt-4-and-launches-ai-ava-a8262413e8fe438ea6ed984c34a89d71.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-oasis-origin-won-1st-prize-in-bnb-chain-cybercon-789c61ec199f49c1a97f346abc4b89e7.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-ordinals-protocol-and-brc20-a-new-era-for-bitcoin-0e7c04556ea441dfa9268dff152b3a92.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-rising-from-the-ashes-how-curve-finance-s-unbreaka-0e55117d538543bcb621e196d316c778.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-runes-the-new-magic-of-the-ordinals-world-3bb26b6f0f7d4242b9e9fb88b527aaac.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-rwas-making-defi-burn-again-17cd028d72224bf0868c5e64eee45b26.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-simple-steps-for-newbies-guide-to-zksync-airdrops-44456f8dd18a41a997dfe9355b641e2e.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-the-future-of-generative-ai-how-w3ai-fits-in-4129d91d22dc4bd5bc9d84b23ae7a00d.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-the-linea-defi-voyage-is-coming-c47dc0213137418b9d62581c677ed872.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-what-s-the-impact-of-svb-crisis-on-crypto-536ac65950d24385b7b646173669b96c.html
+pages/cryptosherry-s-corner-cryptosherry-s-blog-why-ai-should-be-integrated-with-depin-solutions-3c54fe42ae014d02a76bf47fc665e4c1.html
+pages/cryptosherry-s-corner-cryptosherry-s-live-podcast-series-fc580b55f6004fe1a40ae816e4d4a0ca.html
+pages/cryptosherry-s-corner-ea566d0c34394a8d86266ca2888b1f1c.html
+pages/cryptosherry-s-corner-publications-and-reposting-7fb244838dfe4dc69ea4bb44bac2cf57.html
+pages/cryptosherry-s-corner-sherry-s-cryptosphere-39e39671913048038a812f16e739c273.html
+
+sent 290,712 bytes  received 932 bytes  194,429.33 bytes/sec
+total size is 30,262,858  speedup is 103.77
+[main 2b230b4] Auto update daily picks: 2026-03-07
+ 3 files changed, 39 insertions(+), 39 deletions(-)
+ rename daily/{2026-03-06 => 2026-03-07}/ai/openai-skills/index.html (97%)
+To https://github.com/imcryptosherry/cryptosherry.zyx.git
+   aad7dc8..2b230b4  main -> main
+[ok] Published to GitHub Pages branch main
+[done] 2026-03-07T15:00:15Z
