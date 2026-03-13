@@ -2,47 +2,84 @@
   {
     "id": "market-2026-03-13-01",
     "date": "2026-03-13",
-    "generated_at_utc": "2026-03-13T14:00:47Z",
+    "generated_at_utc": "2026-03-13T18:17:10Z",
     "source_platform": "reddit",
-    "source_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rs85yh/ethereum_trader_accidentally_loses_50m_in_defi/",
-    "title": "Ethereum Trader Accidentally Loses $50M in DeFi Swap",
-    "title_zh": "以太坊交易员在 DeFi 互换中意外损失 5000 万美元",
-    "summary": "Ethereum Trader Accidentally Loses $50M in DeFi Swap",
-    "summary_zh": "以太坊交易员在 DeFi 互换中意外损失 5000 万美元",
+    "source_url": "https://www.reddit.com/r/Bitcoin/comments/1rsibj4/a_big_win_for_bitcoin_and_freedom_us_senate_votes/",
+    "title": "A big win for Bitcoin and freedom: US Senate Votes to Ban Federal Reserve From Issuing CBDC",
+    "title_zh": "比特币和自由的重大胜利：美国参议院投票禁止美联储发行 CBDC",
+    "summary": "A big win for Bitcoin and freedom: US Senate Votes to Ban Federal Reserve From Issuing CBDC",
+    "summary_zh": "比特币和自由的重大胜利：美国参议院投票禁止美联储发行 CBDC",
     "tags": [
-      "CryptoCurrency"
+      "Bitcoin"
     ],
-    "engagement": 246
+    "engagement": 860,
+    "content_type": "analysis",
+    "quality_flags": [],
+    "topic_key": "btc + vote",
+    "assets": [
+      "bitcoin"
+    ],
+    "selection_reason": "Balanced score after filtering and diversity constraints",
+    "engagement_score": 0.9062,
+    "novelty_score": 1.0,
+    "information_density_score": 0.6,
+    "source_quality_score": 0.62,
+    "market_relevance_score": 0.45,
+    "final_score": 0.7752
   },
   {
     "id": "market-2026-03-13-02",
     "date": "2026-03-13",
-    "generated_at_utc": "2026-03-13T14:00:47Z",
+    "generated_at_utc": "2026-03-13T18:17:10Z",
     "source_platform": "reddit",
-    "source_url": "https://www.reddit.com/r/Bitcoin/comments/1rrww1s/sold_roth_wanna_buy_btc/",
-    "title": "Sold Roth WANNA Buy BTC",
-    "title_zh": "已售 Roth 希望购买 BTC",
-    "summary": "Sold Roth WANNA Buy BTC",
-    "summary_zh": "已售 Roth 希望购买 BTC",
+    "source_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rmm3og/holy_the_whales_are_aggressively_shorting_btc/",
+    "title": "HOLY… The whales are aggressively shorting BTC. This sell pressure is massive.",
+    "title_zh": "天啊……鲸鱼们正在积极做空 BTC。这种抛售压力很大。",
+    "summary": "HOLY… The whales are aggressively shorting BTC. This sell pressure is massive.",
+    "summary_zh": "天啊……鲸鱼们正在积极做空 BTC。这种抛售压力很大。",
     "tags": [
-      "Bitcoin"
+      "CryptoCurrency"
     ],
-    "engagement": 135
+    "engagement": 949,
+    "content_type": "analysis",
+    "quality_flags": [],
+    "topic_key": "btc",
+    "assets": [
+      "btc"
+    ],
+    "selection_reason": "Balanced score after filtering and diversity constraints",
+    "engagement_score": 1.0,
+    "novelty_score": 1.0,
+    "information_density_score": 0.45,
+    "source_quality_score": 0.62,
+    "market_relevance_score": 0.45,
+    "final_score": 0.778
   },
   {
     "id": "market-2026-03-13-03",
     "date": "2026-03-13",
-    "generated_at_utc": "2026-03-13T14:00:48Z",
+    "generated_at_utc": "2026-03-13T18:17:10Z",
     "source_platform": "reddit",
-    "source_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rshxv7/holyshit_150m_in_btc_long_positions_just_opened/",
-    "title": "HOLYSHIT! $150M in BTC long positions just opened within the last hour. What do they know that we don’t?",
-    "title_zh": "天哪！过去一小时内刚刚开设了 1.5 亿美元的 BTC 多头头寸。他们知道什么我们不知道的事情？",
-    "summary": "HOLYSHIT! $150M in BTC long positions just opened within the last hour. What do they know that we don’t?",
-    "summary_zh": "天哪！过去一小时内刚刚开设了 1.5 亿美元的 BTC 多头头寸。他们知道什么我们不知道的事情？",
+    "source_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rmswyt/elizabeth_warren_torches_trump_after_lap_dog_sec/",
+    "title": "Elizabeth Warren torches Trump after ‘lap dog’ SEC drops Justin Sun charges in $10m deal",
+    "title_zh": "SEC 撤销对孙宇晨 1000 万美元交易的指控后，伊丽莎白·沃伦 (Elizabeth Warren) 痛斥特朗普",
+    "summary": "Elizabeth Warren torches Trump after ‘lap dog’ SEC drops Justin Sun charges in $10m deal",
+    "summary_zh": "SEC 撤销对孙宇晨 1000 万美元交易的指控后，伊丽莎白·沃伦 (Elizabeth Warren) 痛斥特朗普",
     "tags": [
       "CryptoCurrency"
     ],
-    "engagement": 84
+    "engagement": 608,
+    "content_type": "analysis",
+    "quality_flags": [],
+    "topic_key": "market",
+    "assets": [],
+    "selection_reason": "Balanced score after filtering and diversity constraints",
+    "engagement_score": 0.6407,
+    "novelty_score": 1.0,
+    "information_density_score": 0.6,
+    "source_quality_score": 0.62,
+    "market_relevance_score": 0.35,
+    "final_score": 0.6722
   },
   {
     "id": "market-2026-03-12-01",

@@ -1,23 +1,38 @@
 [
   {
-    "id": "ai-2026-03-13-computesdk-computesdk",
+    "id": "ai-2026-03-13-msitarzewski-agency-agents",
     "date": "2026-03-13",
-    "generated_at_utc": "2026-03-13T14:00:43Z",
+    "generated_at_utc": "2026-03-13T18:21:48Z",
     "source_platform": "github",
-    "source_url": "https://github.com/computesdk/computesdk",
-    "title": "computesdk/computesdk",
-    "description": "A free and open-source toolkit for running other people's code in your applications.",
-    "description_zh": "一个免费的开源工具包，用于在您的应用程序中运行其他人的代码。",
-    "summary": "Selected from GitHub trending/topic candidates in the latest 24h window, ranked by stars after quality filtering.",
-    "summary_zh": "从最新24小时窗口的GitHub趋势/候选主题中筛选，经过质量筛选后按星级排名。",
+    "source_url": "https://github.com/msitarzewski/agency-agents",
+    "title": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each...",
+    "description_zh": "触手可及的完整人工智能机构 - 从前端向导到 Reddit 社区忍者，从奇思妙想的注入者到现实检查者。每个...",
+    "summary": "High-priority freshness signal (new release/new repo/trending) with strong practical relevance.",
+    "summary_zh": "具有很强实际相关性的高优先级新鲜度信号（新版本/新存储库/趋势）。",
     "tags": [
-      "agent",
       "ai",
-      "ai-runtime"
+      "github"
     ],
-    "category": "Tooling",
-    "updated_at": "2026-03-12T21:15:46Z",
-    "score_raw": 129,
+    "category": "Agent Framework",
+    "topic_categories": [
+      "agents"
+    ],
+    "quality_flags": [
+      "low_value_repo_type"
+    ],
+    "freshness_tier": "high:trending_24h",
+    "selection_reason": "New project signal with high freshness and practical relevance.",
+    "signal_type": "new_project",
+    "updated_at": "2026-03-13T04:24:03Z",
+    "score_raw": 39214,
+    "final_score": 0.856,
+    "freshness_score": 1.0,
+    "momentum_score": 0.5142,
+    "relevance_score": 1.0,
+    "utility_score": 0.95,
+    "quality_score": 0.85,
+    "repetition_penalty": 0.0,
     "fallback_used": false
   }
 ]
